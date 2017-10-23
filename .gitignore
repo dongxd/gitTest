@@ -1,0 +1,12 @@
+*.iml
+/.idea/
+/app/build/
+/app/.gitignore
+/app/proguard-rules.pro
+/build/
+/gradle/
+/gradle.properties
+/gradlew
+/gradlew.bat
+/local.properties
+/.gradle/
